@@ -1,6 +1,8 @@
 {
 "BlockApp":true,
 "AppList": [{
-"com.azzphucdev.vpn","com.azzphuc.dev","com.azzphucdev.pro"
+"App1":"com.azzphucdev.vpn",
+"App2":"com.azzphuc.dev",
+"App3":"com.azzphucdev.pro"
 }]
 }
