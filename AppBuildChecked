@@ -3,4 +3,10 @@
 "AppName":"v2rayNG",
 "AppVersionBuild":1,
 "AppVersionName":"1.0.0"
+},
+{
+"AppPack":"com.azzphucmasterdev.tnetz",
+"AppName":"v2rayNG",
+"AppVersionBuild":1,
+"AppVersionName":"1.0.0"
 }]
