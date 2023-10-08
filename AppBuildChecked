@@ -9,4 +9,9 @@
 "AppName":"TNETZ",
 "AppVersionBuild":1,
 "AppVersionName":"1.0.0"
+},{
+"AppPack":"com.azzphucmasterdev.zenpn",
+"AppName":"ZENPN",
+"AppVersionBuild":1,
+"AppVersionName":"1.0.0"
 }]
