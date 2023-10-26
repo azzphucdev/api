@@ -44,4 +44,9 @@
 "AppName":"4GMIENPHI",
 "AppVersionBuild":1,
 "AppVersionName":"1.0.0"
+},{
+"AppPack":"com.azzphucmasterdev.sinhvien",
+"AppName":"4GSINHVIEN",
+"AppVersionBuild":1,
+"AppVersionName":"1.0.0"
 }]
