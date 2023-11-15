@@ -70,6 +70,11 @@
 "AppVersionBuild":3,
 "AppVersionName":"1.0.0"
 },{
+"AppPack":"com.azzphucmasterdev.sky4g",
+"AppName":"SKY4G",
+"AppVersionBuild":1,
+"AppVersionName":"1.0.0"
+},{
 "AppPack":"com.azzphucmasterdev.xf4gsieunhanh",
 "AppName":"4GSIEUNHANH",
 "AppVersionBuild":1,
