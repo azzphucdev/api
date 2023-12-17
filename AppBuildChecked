@@ -114,4 +114,9 @@
 "AppName":"Meta Turbo666",
 "AppVersionBuild":208011,
 "AppVersionName":"2.9.1.Meta"
+},{
+"AppPack":"com.azzphucmasterdev.paidvpn",
+"AppName":"DataMaxVPN",
+"AppVersionBuild":1,
+"AppVersionName":"1.0.0"
 }]
