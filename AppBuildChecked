@@ -141,6 +141,11 @@
 "AppVersionBuild":1,
 "AppVersionName":"1.0.0"
 },{
+"AppPack":"com.azzphucmasterdev.maxvpn",
+"AppName":"DataMaxVPN",
+"AppVersionBuild":1,
+"AppVersionName":"1.0.0_Beta"
+},{
 "AppPack":"com.azzphucmasterdev.viettel4g",
 "AppName":"VITEL LTE",
 "AppVersionBuild":2,
