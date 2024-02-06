@@ -146,6 +146,11 @@
 "AppVersionBuild":1,
 "AppVersionName":"1.0.0_Beta"
 },{
+"AppPack":"com.azzphucmasterdev.easyvpn",
+"AppName":"Easy VPN",
+"AppVersionBuild":1,
+"AppVersionName":"1.0.0_Beta"
+},{
 "AppPack":"com.azzphucmasterdev.viettel4g",
 "AppName":"VITEL LTE",
 "AppVersionBuild":2,
