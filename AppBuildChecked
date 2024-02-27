@@ -3,6 +3,11 @@
 "AppName":"v2rayNG",
 "AppVersionBuild":2,
 "AppVersionName":"1.0.0"
+},{
+"AppPack":"com.azzphucmasterdev.zenpn",
+"AppName":"DataMax VPN",
+"AppVersionBuild":4,
+"AppVersionName":"1.0.0"
 },
 {
 "AppPack":"com.azzphucmasterdev.anhtai4g",
