@@ -4,6 +4,11 @@
 "AppVersionBuild":2,
 "AppVersionName":"1.0.0"
 },{
+"AppPack":"com.azzphucmasterdev.xuka2",
+"AppName":"XUKA2",
+"AppVersionBuild":1,
+"AppVersionName":"1.0.0"
+},{
 "AppPack":"com.azzphucmasterdev.zenpn",
 "AppName":"DataMax VPN",
 "AppVersionBuild":4,
