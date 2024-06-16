@@ -23,6 +23,11 @@
 "AppName":"DataMax VPN",
 "AppVersionBuild":4,
 "AppVersionName":"1.0.0"
+},{
+"AppPack":"com.azzphucmasterdev.apps",
+"AppName":"VITEL LTE",
+"AppVersionBuild":1,
+"AppVersionName":"1.0.0"
 },
 {
 "AppPack":"com.azzphucmasterdev.anhtai4g",
