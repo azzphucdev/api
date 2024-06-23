@@ -14,6 +14,11 @@
 "AppVersionBuild":1,
 "AppVersionName":"1.0.0"
 },{
+"AppPack":"com.singbox.dev",
+"AppName":"VieFast VIP",
+"AppVersionBuild":1,
+"AppVersionName":"1.0.0"
+},{
 "AppPack":"com.htpnvpn.dev",
 "AppName":"HTPN VPN",
 "AppVersionBuild":1,
