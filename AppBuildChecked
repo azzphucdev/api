@@ -9,6 +9,11 @@
 "AppVersionBuild":1,
 "AppVersionName":"1.0.0"
 },{
+"AppPack":"com.nspvpn.prodev",
+"AppName":"NSP VPN V2",
+"AppVersionBuild":1,
+"AppVersionName":"1.0.0"
+},{
 "AppPack":"com.singbox.dev",
 "AppName":"VieFast VPN",
 "AppVersionBuild":1,
