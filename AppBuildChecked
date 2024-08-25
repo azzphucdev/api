@@ -176,6 +176,11 @@
 "AppVersionBuild":208011,
 "AppVersionName":"2.9.1.Meta"
 },{
+"AppPack":"com.azzphucmasterdev.clashmeta4",
+"AppName":"Meta NA668",
+"AppVersionBuild":208011,
+"AppVersionName":"2.10.3.Meta"
+},{
 "AppPack":"com.azzphucmasterdev.paidvpn",
 "AppName":"DataMaxVPN",
 "AppVersionBuild":1,
