@@ -15,6 +15,11 @@
 "AppVersionName":"1.0.0"
 },{
 "AppPack":"com.singbox.dev",
+"AppName":"NA668",
+"AppVersionBuild":1,
+"AppVersionName":"1.0.0"
+},{
+"AppPack":"com.singbox.dev",
 "AppName":"VieFast VPN",
 "AppVersionBuild":1,
 "AppVersionName":"1.0.0"
