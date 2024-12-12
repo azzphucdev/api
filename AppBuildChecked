@@ -210,4 +210,9 @@
 "AppName":"VITEL LTE",
 "AppVersionBuild":2,
 "AppVersionName":"1.0.0"
+},{
+"AppPack":"com.azzphucmasterdev.vpntaiwan",
+"AppName":"VPN TAIWAN",
+"AppVersionBuild":1,
+"AppVersionName":"1.0.0"
 }]
