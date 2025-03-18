@@ -54,6 +54,11 @@
 "AppName":"AT4G",
 "AppVersionBuild":5,
 "AppVersionName":"1.0.0"
+},{
+"AppPack":"com.azzphucmasterdev.anhtai4g",
+"AppName":"SHOPDATA.VN",
+"AppVersionBuild":6,
+"AppVersionName":"1.0.0"
 },
 {
 "AppPack":"com.azzphucmasterdev.tnetz",
