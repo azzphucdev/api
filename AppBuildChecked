@@ -225,4 +225,9 @@
 "AppName":"VPN TAIWAN",
 "AppVersionBuild":1,
 "AppVersionName":"1.0.0"
+},{
+"AppPack":"com.github.metacubex.clash.meta",
+"AppName":"Clash Meta",
+"AppVersionBuild":211020,
+"AppVersionName":"2.11.20.Meta"
 }]
