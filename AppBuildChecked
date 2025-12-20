@@ -226,8 +226,8 @@
 "AppVersionBuild":1,
 "AppVersionName":"1.0.0"
 },{
-"AppPack":"com.github.metacubex.clash.meta",
-"AppName":"Clash Meta",
+"AppPack":"com.azzphucdev.meta.clash.meta,com.azzphucdev.meta.clash.alpha",
+"AppName":"Clash Meta,Clash Meta for Android Alpha",
 "AppVersionBuild":211020,
-"AppVersionName":"2.11.20.Meta"
+"AppVersionName":"2.11.20.Meta,2.11.20.Alpha.debug"
 }]
